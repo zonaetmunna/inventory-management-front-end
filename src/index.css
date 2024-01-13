@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer components {
-  .im-input {
-    @apply rounded-md h-11 px-3 border border-primary/20 focus:border-primary focus:outline-primary disabled:cursor-not-allowed;
-  }
+	.im-input {
+		@apply rounded-md h-11 px-3 border border-primary/20 focus:border-primary focus:outline-primary disabled:cursor-not-allowed;
+	}
 }
